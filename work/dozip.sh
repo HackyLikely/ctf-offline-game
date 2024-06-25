@@ -9,6 +9,7 @@ DESTPATH="../levels/${LVL2ZIP}.7z"
 PASS000='qwerty-1234'
 PASS001='blowin-in-the-w1nd'
 PASS002='2the-next-lvl'
+PASS003='hidd-enS3-CRET-flag'
 
 # FLAG name selection
 PASS="PASS${LVL2ZIP}"
