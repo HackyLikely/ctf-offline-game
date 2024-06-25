@@ -14,6 +14,5 @@ The level-000 is unlocked by `CTF{qwerty-1234}`.
 7zz x levels/000.7z
 ```
 
-## Others
-- If you want to get an overview of the solution, you can find the solving scripts under `solution/`
-- To see how the levels are build you can look to `generation/`
+## Work
+- If you want to gain insight into how the problems are generated and solved, just look inside the `work/` directory **(SPOILER ALERT)**. 
