@@ -8,6 +8,7 @@ DESTPATH="../levels/${LVL2ZIP}.7z"
 # FLAGs list
 PASS000='qwerty-1234'
 PASS001='blowin-in-the-w1nd'
+PASS002='2the-next-lvl'
 
 # FLAG name selection
 PASS="PASS${LVL2ZIP}"
