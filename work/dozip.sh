@@ -10,6 +10,10 @@ PASS000='qwerty-1234'
 PASS001='blowin-in-the-w1nd'
 PASS002='2the-next-lvl'
 PASS003='hidd-enS3-CRET-flag'
+PASS004='Well-done-MyFR-13ND'
+
+
+
 
 # FLAG name selection
 PASS="PASS${LVL2ZIP}"
